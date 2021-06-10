@@ -1,7 +1,7 @@
 # geometric-linear-chabauty
 Code associated to the paper 'A Geometric Linear Chabauty Comparison Theorem' by Sachi Hashimoto and Pim Spelier <https://arxiv.org/abs/2102.04967>.
-Code for finding genus 3 examples where geometric linear Chabauty outperforms Chabauty—Coleman.
-For more information, see Examples 5.7 and 5.8 and the comments in genus3batchcode.m.
+This is code for finding genus 3 examples where geometric linear Chabauty outperforms Chabauty—Coleman.
+For more information, see Examples 5.7 and 5.8 and the comments in genus3batchcode.m and g3coleman.sage.
 
 To run the code, you need to download 
 <http://www.mathe2.uni-bayreuth.de/stoll/magma/Kum3/G3Hyp.m>,
